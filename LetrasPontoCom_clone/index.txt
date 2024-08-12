@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+
+	<head>
+		<!-- Renderiza caracteres especiais corretamente -->
+		<meta charset="UTF-8">
+
+		<!-- permite reconhecer quando aberto em tela menor -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Só Fé - Grelo - LETRAS.MUS.BR</title>
+
+	</head>
+	<body>
+		<img src="img/topo.png" alt="topo da página">
+	</body>
+
+</html>
